@@ -11,30 +11,17 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let dec = `👋 HEY ${pushname} 
+❮ NOT MENU 💀❯🔎*
 
-❮ ꜱʜᴀɴᴜᴡᴀ ᴍᴅ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ ❯
+${menu.search}
 
-┌────────────❐
-╎☔❮ 𝙼𝙰𝙸𝙽 𝙻𝙸𝚂𝚃 ❯
-╎
-╎ 👾 ❪ .ᴀʟɪᴠᴇ ❫
-╎ 👾 ❪ .ᴘɪɴɢ  ❫
-╎ 👾 ❪ .ᴍᴇɴᴜ ❫
-╎ 👾 ❪ .ꜱʏꜱᴛᴇᴍ ❫
-╎ 👾 ❪ .ʀᴇᴘᴏ ❫
-└────────────❐
-┌─────────────❐
-╎☔❮ 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝚂𝚃 ❯
-╎
-╎ 👾 ❪ .ᴀᴅᴅ ❫
-╎ 👾 ❪ . ᴅᴇᴍᴏᴛᴇ ❫
-╎ 👾 ❪ . ᴘʀᴏᴍᴏᴛᴇ ❫
-╎ 👾 ❪ . ɢᴇᴛᴘɪᴄ ❫
-╎ 👾 ❪ .ʀᴇᴍᴏᴠᴇ ❫
-╎ 👾 ❪ .ᴋɪᴄᴋ ❫
-╎ 👾 ❪ .ꜱᴇᴛɢᴏᴏᴅʙʏᴇ ❫
-╎ 👾 ❪ .ꜱᴇᴛᴡᴇʟᴄᴏᴍᴇ ❫
-└──────────────❐
+*This bot was created by the DARK-X-TEAM, more information about this bot will be posted on our channel. Keep following the channel.👇*
+
+*👥 https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U 👥*
+
+╚═════════════════════════◊
+2024 ʙᴇᴀᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
+`
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/sKsNmKK/8078.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
