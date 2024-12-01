@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DARK+X+MD+ＷＨＡＴＳＡＰＰ+ＢＯＴ+V1)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=SHANUWA+MD+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ+CREATE+BY+SHANUWA+ID)](https://git.io/typing-svg)
 
 
 
@@ -12,8 +12,8 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/SHANUWATECH/DARK-X-MD.git">
-    <img src="https://files.catbox.moe/9pecje.jpg"  width="700px">
+<a href="https://github.com/DARK-X-BOT/SHANUWA-MD-V3">
+    <img src="https://i.ibb.co/pKM8yPL/ef3631e1267b96f1.jpg"  width="700px">
 </a>
 <hr>
 
@@ -42,13 +42,13 @@
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD)
+ [![nima](https://img.shields.io/badge/shanuwa_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD)
   
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![nima](https://img.shields.io/badge/shanuwa_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![nima](https://img.shields.io/badge/shanuwa_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![nima](https://img.shields.io/badge/shanuwa_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
 
