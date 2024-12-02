@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `SHANUWA-MD කනෙක්ට් උනා 😚❤️‍🩹\nSHANUWA MD BOT GROUP\n\nPREFIX:${prefix}`;
+let up = `SHANUWA-MD CONNETED SUCCESSFULLY ✅\n\nPREFIX:${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/ThLhsQq/IMG-20241128-WA0173-1.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/5B1Kx5Y/7770.jpg` }, caption: up })
 
 }
 })
@@ -146,7 +146,7 @@ m.react("👨‍💻")
 }
 if(senderNumber.includes("94721671087")){
 if(isReact) return
-m.react("👨‍💻")
+m.react("💃")
 }
 //=====================✓
 
