@@ -13,11 +13,11 @@ try{
 
 let dec = `*👋 Hello ${pushname}*
 
-> *MY OWNER INFO 👨‍💻* 
+> *SHANUWA MD INFO* 
 
-*🔥 ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ꜱʜᴀɴᴜᴡᴀ ᴍᴅ*
-🔥 *ɴᴜᴍʙᴇʀ* -: 94774609569
-🔥 *ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029VatUyIgJf05e75Nlnc3Y
+☔ *ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ꜱʜᴀɴᴜᴡᴀ ᴍᴅ*
+☔ *ɴᴜᴍʙᴇʀ* -: 94774609569
+☔ *ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029VatUyIgJf05e75Nlnc3Y
 
 *2024 ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
 `
