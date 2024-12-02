@@ -12,11 +12,9 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let des = `*හායි හුත්තෝ* ,${pushname}\n *I Am AlIVE NOW....! 🖐🏻*
 
-╭════════════⊷❍ 
-┊
-┊FOR MORE DETAILS  ,   TYPE ( *.menu*) 🔐
-┊
-╰════════════⊷❍
+☔ *ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ꜱʜᴀɴᴜᴡᴀ ᴍᴅ*
+☔ *ɴᴜᴍʙᴇʀ* -: 94774609569
+☔ *ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029VatUyIgJf05e75Nlnc3Y
 
 *- ꜱʜᴀɴᴜᴡᴀ ɪꜱ ᴡᴇʙ ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ*
 
