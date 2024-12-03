@@ -17,7 +17,7 @@ let dec = `*👋 Hello ${pushname}*
 
 ☔ *ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ꜱʜᴀɴᴜᴡᴀ ᴍᴅ*
 ☔ *ɴᴜᴍʙᴇʀ* -: 94774609569
-☔ *ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029VatUyIgJf05e75Nlnc3Y
+☔ *ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U
 
 *2024 ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
 `
